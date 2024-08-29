@@ -68,6 +68,6 @@ The results of the experiments are presented in the individual notebooks. A summ
 
 ## Acknowledgments
 - EVALITA 2020 AMI task organizers for providing the dataset
-- AlBERTo: Italian BERT Language Understanding Model Polignano et al., 2019 [Paper](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074851349&partnerID=40&md5=7abed946e06f76b3825ae5e294ffac14) [Github Repository](https://github.com/marcopoli/AlBERTo-it)
-- UmBERTo: Italian Language Model trained with Whole Word Masking Parisi et al., 2020 [Github Repository](https://github.com/musixmatchresearch/umberto)
-- XLM-T: Multilingual Language Models in Twitter Barbieri et al., 2022 [Paper](https://aclanthology.org/2022.lrec-1.27) [Github Repository](https://github.com/cardiffnlp/xlm-t)
+- AlBERTo: Italian BERT Language Understanding Model Polignano et al., 2019 [[Paper](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074851349&partnerID=40&md5=7abed946e06f76b3825ae5e294ffac14)] [[Github Repository](https://github.com/marcopoli/AlBERTo-it)]
+- UmBERTo: Italian Language Model trained with Whole Word Masking Parisi et al., 2020 [[Github Repository](https://github.com/musixmatchresearch/umberto)]
+- XLM-T: Multilingual Language Models in Twitter Barbieri et al., 2022 [[Paper](https://aclanthology.org/2022.lrec-1.27)] [[Github Repository](https://github.com/cardiffnlp/xlm-t)]
