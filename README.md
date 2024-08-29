@@ -66,9 +66,6 @@ The results of the experiments are presented in the individual notebooks. A summ
 - `Presentation.pdf`: A presentation summarizing the project, methodology, and results.
 - `Report.pdf`: A detailed report of the project, including introduction, methodology, results, and analysis.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 - EVALITA 2020 AMI task organizers for providing the dataset
 - AlBERTo: Italian BERT Language Understanding Model Polignano et al., 2019 [Paper](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074851349&partnerID=40&md5=7abed946e06f76b3825ae5e294ffac14) [Github Repository](https://github.com/marcopoli/AlBERTo-it)
